@@ -28,4 +28,4 @@ This Power BI project provides a comprehensive analysis of travel agency operati
 3. (Optional) If you have a Power BI Service account, you can publish it to your workspace to view the web version.
 
 ---
-Developed by Benchz Sobrepeña/leigberk2002 *Business Operations Analyst | Data Visualization Specialist*
+**Developed by Benchz Sobrepeña/leigberk2002** *Business Operations Analyst | Data Visualization Specialist*
