@@ -19,7 +19,7 @@ This Power BI project provides a comprehensive analysis of travel agency operati
 
 ## Repository Contents
 * `Travel_Agency_Analysis.pbix`: The main Power BI file containing all dashboards and data models.
-* `/Projects & Revenue`, `/Risk & Variance`: High-resolution images of the dashboard for quick preview.
+* `Analysis Dashboard`: High-resolution images of the dashboard for quick preview.
 * `Data_Dictionary.md`: (Optional) A brief explanation of the fields used in the dataset.
 
 ## How to View
